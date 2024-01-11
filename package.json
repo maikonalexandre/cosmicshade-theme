@@ -6,6 +6,10 @@
   "publisher": "MaikonAlexandredosSantosSousa",
   "keywords": ["theme, dark, blue, cosmicshade"],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maikonalexandre/cosmicshade-theme"
+},
   "engines": {
     "vscode": "^1.22.0"
   },
