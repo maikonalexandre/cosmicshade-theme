@@ -13,12 +13,17 @@
 
 </div>
 
-## Install
+## 📌 Install
 
 1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=MaikonAlexandreDosSantosSousa.cosmicshade-theme)
 2. Go to `File > Preferences > Color Theme`
 3. Select CosmicShade Theme
 
-## License
+Alternatively install via CLI:
+```
+code --install-extension maikonalexandre.cosmicshade-theme
+```
+
+## 🌟 License
 
 [MIT License](LICENSE)
