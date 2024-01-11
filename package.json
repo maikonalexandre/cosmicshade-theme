@@ -1,0 +1,22 @@
+{
+  "name": "cosmicshade-theme",
+  "version": "0.0.0",
+  "icon": "icon.png",
+  "description": "A dark blue space-inspired theme",
+  "publisher": "MaikonAlexandredosSantosSousa",
+  "keywords": ["theme, dark, blue, cosmicshade"],
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CosmicShade Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cosmic-shade.json"
+      }
+    ]
+  }
+}
