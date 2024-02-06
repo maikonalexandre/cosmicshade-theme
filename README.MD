@@ -17,7 +17,7 @@
 
 1. Install theme from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=MaikonAlexandreDosSantosSousa.cosmicshade-theme)
 2. Go to `File > Preferences > Color Theme`
-3. Select CosmicShade Theme.
+3. Select CosmicShade Theme
 
 Alternatively install via CLI:
 ```
